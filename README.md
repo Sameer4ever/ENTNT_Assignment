@@ -79,7 +79,7 @@ src/
 
 📦 Installation
 1. Clone the repository
-git clone https://github.com/yourusername/entnt-dental-dashboard.git
+git clone https://github.com/Sameer4ever/ENTNT_Assignment.git
 cd entnt-dental-dashboard
 
 2. Install dependencies
